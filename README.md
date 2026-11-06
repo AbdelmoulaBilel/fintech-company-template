@@ -4,6 +4,8 @@ Corporate website template for a banking-technology company (French): solutions,
 
 **Live demo:** https://abdelmoulabilel.github.io/fintech-company-template/
 
+**Built by:** [Bilel Abdelmoula](https://bilelabdelmoula.dev), full-stack developer.
+
 ![Preview](preview.webp)
 
 ## Use it
